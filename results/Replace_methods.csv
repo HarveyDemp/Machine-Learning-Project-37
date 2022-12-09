@@ -1,0 +1,5 @@
+,Replace Embedding,Accuracy (XGBoost),Accuracy (SVM)
+0,baseline,0.839,0.8285
+1,GloVe,0.832,0.82
+2,w2v,0.783,0.765
+3,w2v- CFPB,0.8265,0.807
